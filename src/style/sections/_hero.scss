@@ -17,9 +17,9 @@
 
  
 
-   background: url("/src/assets/back1.jpg");
-  background-position: center;
-  background-size: cover; 
+//    background: url("/src/assets/back1.jpg");
+//   background-position: center;
+//   background-size: cover; 
 
   @include respond(phone) {
     padding: 0rem $default-font-size;
