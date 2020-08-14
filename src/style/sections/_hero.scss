@@ -17,9 +17,9 @@
 
  
 
-  background: url("https://unsplash.com/photos/dYEuFB8KQJk");
-  background-position: center;
-  background-size: cover; 
+//   background: url("https://unsplash.com/photos/dYEuFB8KQJk");
+//   background-position: center;
+//   background-size: cover; 
 
   @include respond(phone) {
     padding: 0rem $default-font-size;
