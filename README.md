@@ -10,7 +10,7 @@
 ⚡️ Optimized with Webpack\
 ⚡️ Well organized documentation
 
-To view a live example, **[click here]()**
+To view a live example, **[click here](https://divyansh-rastogi.netlify.app/)**
 
 ---
 
@@ -33,7 +33,7 @@ From your command line, first clone :
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/divyanshrastogi51/my-new-website
+$ git clone https://github.com/divyanshrastogi51/mynewweb
 
 # Go into the repository
 $ cd my-new-website
@@ -60,9 +60,7 @@ This is how I put my website online!
 
 I highly recommend to use [Netlify](https://netlify.com) to achieve this on the EASIEST WAY
 
-Because this template use Webpack maybe you can get errors during deployment, Please watch my step-by-step video tutorial to successfully upload your Simplefolio Website on Netlify!
-
-**[WATCH THIS](https://www.youtube.com/watch?v=soaG3GNSxJY)**
+**[WATCH THIS](https://www.youtube.com/watch?v=bjVUqvcCnxM)**
 
 
 
