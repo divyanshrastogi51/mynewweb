@@ -1,7 +1,7 @@
 {
   "name": "mynewweb",
   "version": "1.0.1",
-  "description": "A clean, beautiful and responsive portfolio template for Developers!",
+  "description": "A clean, beautiful and responsive portfolio of Divyansh Rastogi",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config webpack.dev.js --open",
@@ -12,8 +12,8 @@
     "url": "git+https://github.com/divyanshrastogi51/mynewweb"
   },
   "keywords": [],
-  "author": "Jacobo Martinez",
-  "license": "ISC",
+  "author": "Divyansh Rastogi",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/divyanshrastogi51/mynewweb/issues"
   },
