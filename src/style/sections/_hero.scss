@@ -15,18 +15,15 @@
   right: 0;
   z-index: -1;
 
- 
   background: url("back.gif");
   background-position: center;
   background-size: cover;
- 
 
   @include respond(phone) {
     padding: 0rem $default-font-size;
     background: url("backm.gif");
     background-position: center;
     background-size: cover;
-    
   }
 
   .hero-title {
