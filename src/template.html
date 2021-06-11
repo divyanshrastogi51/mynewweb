@@ -68,10 +68,12 @@
 
   
   <body>
+    <div class="loader" id="loader" style="display: none;"></div>
     <div id="top"></div>
     
       
     <!-- **** Hero Section **** -->
+      
     <div id="hero" class="jumbotron">
       <div class="container">
        
@@ -85,6 +87,7 @@
         </p>
       </div>
     </div>
+    
     <!-- /END Hero Section -->
 
     <!-- **** About Section **** -->
@@ -385,9 +388,28 @@
         </p>
 
         
-      </div>
     </footer>
+    </div>
     <!-- /END Footer Section -->
+    <script>
+      const loader         = document.getElementById('loader');
+      function ShowLoadingSpinner(){
+    loader.style.display = "block";
+}
+
+//Hide loading
+function HideLoadingSpinner(){        
+     loader.style.display = "none";
+}
+function getLoader() {
+    ShowLoadingSpinner();
+     window.setTimeout(function () {
+      HideLoadingSpinner();
+    }, 3000);
+
+}
+getLoader();
+    </script>
   </body>
 </html>
 
